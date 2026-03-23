@@ -29,22 +29,6 @@ The analysis moves through 8 structured phases — from baseline response profil
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-├── data/
-│   └── marketing_data.csv          # Raw dataset
-├── notebooks/
-│   └── marketing_analysis.ipynb    # Full analysis notebook (Python)
-├── visuals/
-│   └── *.png                       # Charts and visualisations (Power BI / Excel exports)
-├── report/
-│   └── What_Works_in_Marketing.pdf # Styled full report
-└── README.md
-```
-
----
-
 ## 🔍 Key Findings
 
 ### 1. Overall Response Rate
