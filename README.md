@@ -139,7 +139,7 @@ The complete styled report is available in the `/report` folder:
 ## 👩‍💻 Author
 
 **Rita Akumu** — Data Analyst  
-📧 [your email] &nbsp;|&nbsp; 🔗 [LinkedIn profile] &nbsp;|&nbsp; 🐙 [GitHub profile]
+📧 ritaakumu20@gmail.com &nbsp;|&nbsp; 🔗 [https://www.linkedin.com/in/rita-akumu-] &nbsp;|&nbsp; 
 
 ---
 
